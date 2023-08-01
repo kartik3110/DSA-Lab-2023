@@ -1,1 +1,1 @@
-### 4th sem DSA Lab assignments
+### DSA Lab assignments of 4th sem
